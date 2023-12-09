@@ -1,2 +1,2 @@
 # AI-ML-Lab
-AI and ML Lab Assessments and Projects @IIIT-HYD
+AIML Lab Assessments and Projects @IIIT-HYD
